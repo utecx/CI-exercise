@@ -9,4 +9,4 @@ def add_func(var_one, var_two):
         var_two: second variable
 
     """
-    return a + var_two
+    return var_one + var_two
